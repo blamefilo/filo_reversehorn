@@ -78,7 +78,6 @@ lib.onCache("vehicle", function(vehicle)
         return
     end
 
-    local license = GetPlayerLicense()
     local model = GetEntityModel(vehicle)
     local plate = GetVehicleNumberPlateText(vehicle)
 
