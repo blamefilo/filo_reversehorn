@@ -4,7 +4,7 @@ lua54 'yes'
 
 name 'filo_reversehorn'
 author 'filo studios.'
-discord 'https://discord.gg/bErPEKvRXg'
+discord 'https://discord.gg/ReEE9HgA4c'
 description ''
 version '1.0.0'
 
